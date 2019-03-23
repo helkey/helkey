@@ -4,8 +4,8 @@ Roger Helkey
 
 ----
 
-> <i>Objective</i>: Software engineering individual contributer writing backend software. 
-Particular interest in Go, distributed systems.
+> <i>Objective</i>: Software engineering individual contributer developing backend software.\
+>    Interests include Go, distributed systems.
 
 ----
 
@@ -21,7 +21,7 @@ Work History
 2011-2016
 :   <i>Software Engineer</i> - Calient Technologies
 
-    Developed software infrastructure for manufacturing optical switches.
+    Developed software infrastructure to lower cost of manufacturing optical switches, saved $18M over 5 years. 
 
 2008-2011
 :    <i>Senior Scientist</i> - Toyon
@@ -37,30 +37,38 @@ Education
 <i>Ph.D. in Electrical Engineering</i>, University of California, Santa Barbara
 
 
-Remote
+Remote Work Experience
 ------------
-Self-motivated, self-directed; working remotely from manager for last 8 years. 
-Working remotely from co-workers for last 3 years, communicating mostly by 
-video conference and electronic communication.
+Self-motivated and self-directed - 3 years working remote location from manager and co-workers, 
+  communicating mostly by video conference and electronic communication.
 
 
 Projects
 ------------
-Python: Optimized rate-limiting manufacturing step, reducing cost by 100x (reduced test time 10x, test equipment cost 10x).\
-> Developed algorithm to reduce process time of switch collimator alignment time by 10x.
+Python
+:    Developed software/hardware to reduce cost of rate-limiting manufacturing step by 100x 
+     (test time down 10x, test equipment cost reduced <10x).
+	 Led 2-person team, wrote all of the backend software, performed the testing, 
+	 system integration, and on-going support. Implemented performance/yield tracking.\
 
-Go: Developed backend software for designing integrated photonics (routing, undo buffer, read/write GDS files)\
-> Algorithm implementations (Sudoku solver,...)
+     Developed algorithm to reduce process time of switch collimator alignment time by 10x.
 
-C: Implemented embedded low-power embedded system using energy harvesting, MSP430 microprocessor. 
+Go
+:   Developed backend software for designing integrated photonics (routing layers, undo/redo buffer, read/write GDS files)\
 
-FPGA: Optimized algorithms for WiMAX baseband processing, and image processing algorithms.
+    Algorithm implementations (e.g. [Sudoku solver](https://github.com/helkey/sudoku-go/)
+	(github.com/helkey/sudoku-go/),...)
+
+C
+:   Developed embedded software for low-power sensor system using energy harvesting, MSP430 microprocessor. 
+
+FPGA
+:   Optimized algorithms for WiMAX baseband processing, image processing.
 
 
 References
 ------------
-References available on request\
-> <i>Roger combines a high-intellect and fast-thinking that allow him to tackle complex problems.</i> (O. Jerphagnon)
+References available on request
 
 
 ----
