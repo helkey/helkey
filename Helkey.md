@@ -1,10 +1,10 @@
-
+>
 Roger Helkey
 =========================
 
 ----
 
-> <i>Objective</i>: Software engineering individual contributer developing backend software.\
+> <i>Objective</i>: Software engineer individual contributer role developing backend software.\
 >    Interests include Go, distributed systems.
 
 ----
@@ -21,7 +21,7 @@ Work History
 2011-2016
 :   <i>Software Engineer</i> - Calient Technologies
 
-    Developed software infrastructure to lower cost of manufacturing optical switches, saved $18M over 5 years. 
+    Developed software to lower cost of manufacturing optical switches, saved $18M over 5 years. 
 
 2008-2011
 :    <i>Senior Scientist</i> - Toyon
@@ -46,29 +46,33 @@ Self-motivated and self-directed - 3 years working remote location from manager 
 Projects
 ------------
 Python
-:    Developed software/hardware to reduce cost of rate-limiting manufacturing step by 100x 
+:    - Developed software/hardware to reduce cost of rate-limiting manufacturing step by 100x 
      (test time down 10x, test equipment cost reduced <10x).
 	 Led 2-person team, wrote all of the backend software, performed the testing, 
 	 system integration, and on-going support. Implemented performance/yield tracking.\
 
-     Developed algorithm to reduce process time of switch collimator alignment time by 10x.
+
+     - Developed algorithm to reduce process time of switch collimator alignment time by 10x.
+
 
 Go
-:   Developed backend software for designing integrated photonics (routing layers, undo/redo buffer, read/write GDS files)\
+:   - Developed backend software for designing integrated photonics (routing layers, undo/redo buffer, read/write GDS files)\
 
-    Algorithm implementations (e.g. [Sudoku solver](https://github.com/helkey/sudoku-go/)
+
+    - Algorithm implementations (e.g. [Sudoku solver](https://github.com/helkey/sudoku-go/)
 	(github.com/helkey/sudoku-go/),...)
 
 C
-:   Developed embedded software for low-power sensor system using energy harvesting, MSP430 microprocessor. 
+:   - Developed embedded software for low-power sensor system using energy harvesting, MSP430 microprocessor. 
+
 
 FPGA
-:   Optimized algorithms for WiMAX baseband processing, image processing.
+:   - Optimized algorithms for WiMAX baseband processing, image processing.
 
 
 References
 ------------
-References available on request
+Available on request
 
 
 ----
