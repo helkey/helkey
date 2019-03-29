@@ -31,16 +31,16 @@ Work History
     . . .
 
 
-Education
----------
-<i>B.S. in Engineering</i>, California Institute of Technology\
-<i>Ph.D. in Electrical Engineering</i>, University of California, Santa Barbara
-
-
 Remote Work Experience
 ------------
 Self-motivated and self-directed - 3 years working remote location from manager and co-workers, 
   communicating mostly by video conference and electronic communication.
+
+
+Education
+---------
+<i>B.S. in Engineering</i>, California Institute of Technology\
+<i>Ph.D. in Electrical Engineering</i>, University of California, Santa Barbara
 
 
 Projects
@@ -76,6 +76,7 @@ Available on request
 
 
 ----
-> www.helkey.org\
-> <roger@helkey.org>\
 > Santa Barbara, CA
+> <roger@helkey.org>\
+> www.helkey.org | github.com/helkey\
+
