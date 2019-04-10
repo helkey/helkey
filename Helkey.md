@@ -52,18 +52,21 @@ Python
 	 system integration, and on-going support. Implemented performance/yield tracking.\
 
 
-     - Developed algorithm to reduce process time of switch collimator alignment time by 10x.
+     - Algorithm implementation to reduce time for switch collimator alignment time by 10x.
 
 
 Go
-:   - Developed backend software for designing integrated photonics (routing layers, undo/redo buffer, read/write GDS files)\
+:   - Backend software for designing integrated photonics (routing layers, undo/redo buffer, read/write GDS files)\
 
 
     - Algorithm implementations (e.g. [Sudoku solver](https://github.com/helkey/sudoku-go/)
 	(github.com/helkey/sudoku-go/),...)
 
+Python / HTML / CSS
+:   - Translate Balsamiq wireframes to web pages, including Javascript for customizing theme.
+
 C
-:   - Developed embedded software for low-power sensor system using energy harvesting, MSP430 microprocessor. 
+:   - Embedded software for low-power sensor system using energy harvesting, MSP430 microprocessor. 
 
 
 FPGA
