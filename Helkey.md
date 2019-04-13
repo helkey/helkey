@@ -45,6 +45,14 @@ Education
 
 Projects
 ------------
+Go
+:   - Backend software for designing integrated photonics (routing layers, undo/redo buffer, read/write GDS files)\
+
+
+    - Algorithm implementations (e.g. [Sudoku solver](https://github.com/helkey/sudoku-go/)
+	(github.com/helkey/sudoku-go/),...)
+
+
 Python
 :    - Developed software/hardware to reduce cost of rate-limiting manufacturing step by 100x 
      (test time down 10x, test equipment cost reduced <10x).
@@ -55,22 +63,13 @@ Python
      - Algorithm implementation to reduce time for switch collimator alignment time by 10x.
 
 
-Go
-:   - Backend software for designing integrated photonics (routing layers, undo/redo buffer, read/write GDS files)\
-
-
-    - Algorithm implementations (e.g. [Sudoku solver](https://github.com/helkey/sudoku-go/)
-	(github.com/helkey/sudoku-go/),...)
-
-Python / HTML / CSS
-:   - Translate Balsamiq wireframes to web pages, including Javascript for customizing theme.
-
 C
 :   - Embedded software for low-power sensor system using energy harvesting, MSP430 microprocessor. 
 
 
-FPGA
-:   - Optimized algorithms for WiMAX baseband processing, image processing.
+HTML / CSS
+:   - (Python) Translate Balsamiq wireframes to HTML web pages; (Javascript) color picker for optimizing theme.
+
 
 
 References

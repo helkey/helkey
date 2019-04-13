@@ -3,10 +3,10 @@
 pandoc --standalone -c style.css --from markdown --to html -o index.html Helkey.md
 pandoc --standalone -c style.css --from markdown --to docx -o Helkey.docx Helkey.md
 
-cp index.html /mnt/c/Users/roger/Downloads
-mv Helkey.docx /mnt/c/Users/roger/Downloads
+cp index.html /c/Users/roger/Downloads
+mv Helkey.docx /c/Users/roger/Downloads
 
-# git commit -a -m "commit message"
+# git commit -a -m "e.g. commit message"
 # git push origin gh-pages
 
 # Set A-record DNS to one of 185.199.108.153 - 185.199.111.153
