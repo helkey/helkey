@@ -1,4 +1,4 @@
-#!/bin/bash#!/bin/bash#!/bin/bash
+ #!/bin/bash#!/bin/bash#!/bin/bash
 
 pandoc --standalone -c style.css --from markdown --to html -o index.html Helkey.md
 pandoc --standalone -c style.css --from markdown --to docx -o Helkey.docx Helkey.md

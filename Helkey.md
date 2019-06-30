@@ -46,26 +46,29 @@ Education
 Projects
 ------------
 Go
-:   - (AWS) Distributed URL shortening using Terraform for resource provisioning, Packer for containers (github.com/helkey/url-shorten).
+:   - (AWS) Distributed software for [URL shortening](github.com/helkey/url-shorten) using Terraform for resource provisioning, Packer for containers.
 
-    - Backend software for designing integrated photonics (routing layers, undo/redo buffer, read/write GDS files)\
+    - Backend software for designing integrated photonics (routing layers, undo/redo buffer, read/write GDS files)
 
-    - Algorithm implementations (e.g. [Backtracking](https://github.com/helkey/sudoku-go/), dynamic programming,... github.com/helkey/algorithm-go))
+    - [Algorithm implementations](github.com/helkey/algorithm-go) (e.g. [Backtracking](https://github.com/helkey/sudoku-go/), dynamic programming,...)
  
 Python
 :    - Developed software/hardware to reduce cost of rate-limiting manufacturing step by 100x 
-     (test time down 10x, test equipment cost reduced <10x).
+            (test time down 10x, test equipment cost reduced <10x).
 	 Led 2-person team, wrote all of the backend software, performed the testing, 
-	 system integration, and on-going support. Implemented performance/yield tracking.\
+	 system integration, and on-going support.
 
-     - Algorithm implementation to reduce time for switch collimator alignment time by 10x.
+     - Developed algorithm to reduce process time of switch collimator alignment time by 10x.
+
+     - Performance/yield tracking: Analyze production yield and flag problems using statistical process control. Designed database tables and implemented database schemas.
+
+     - (Javascript/HTML/CSS) Translate Balsamiq wireframes to HTML web pages; Color picker for optimizing CSS themes.
 
 C
 :   - Embedded software for low-power sensor system using energy harvesting, MSP430 microprocessor. 
 
 
-HTML / CSS
-:   - (Python/Javascript) Translate Balsamiq wireframes to HTML web pages; Color picker for optimizing CSS themes.
+
 
 
 References
