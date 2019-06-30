@@ -26,7 +26,7 @@ Work History
 2008-2011
 :    <i>Senior Scientist</i> - Toyon
 
-    Embedded computing, digital signal processing.
+    Embedded software, digital signal processing.
 
     . . .
 
@@ -46,36 +46,31 @@ Education
 Projects
 ------------
 Go
-:   - Backend software for designing integrated photonics (routing layers, undo/redo buffer, read/write GDS files)\
+:   - (AWS) Distributed URL shortening using Terraform for resource provisioning, Packer for containers (github.com/helkey/url-shorten).
 
+    - Backend software for designing integrated photonics (routing layers, undo/redo buffer, read/write GDS files)\
 
-    - Algorithm implementations (e.g. [Sudoku solver](https://github.com/helkey/sudoku-go/)
-	(github.com/helkey/sudoku-go/),...)
-
-
+    - Algorithm implementations (e.g. [Backtracking](https://github.com/helkey/sudoku-go/), dynamic programming,... github.com/helkey/algorithm-go))
+ 
 Python
 :    - Developed software/hardware to reduce cost of rate-limiting manufacturing step by 100x 
      (test time down 10x, test equipment cost reduced <10x).
 	 Led 2-person team, wrote all of the backend software, performed the testing, 
 	 system integration, and on-going support. Implemented performance/yield tracking.\
 
-
      - Algorithm implementation to reduce time for switch collimator alignment time by 10x.
-
 
 C
 :   - Embedded software for low-power sensor system using energy harvesting, MSP430 microprocessor. 
 
 
 HTML / CSS
-:   - (Python) Translate Balsamiq wireframes to HTML web pages; (Javascript) color picker for optimizing theme.
-
+:   - (Python/Javascript) Translate Balsamiq wireframes to HTML web pages; Color picker for optimizing CSS themes.
 
 
 References
 ------------
 Available on request
-
 
 ----
 > Santa Barbara, CA
