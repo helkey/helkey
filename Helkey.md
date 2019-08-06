@@ -5,7 +5,7 @@ Roger Helkey
 ----
 
 > <i>Objective</i>: Software engineer individual contributer role developing backend software.\
->    Interests include Go, distributed systems.
+>    Interests include Go, distributed systems, cloud computing.
 
 ----
 
@@ -17,6 +17,7 @@ Work History
 :   <i>Program Manager</i> - UC Santa Barbara
 
     Supervise research, give presentations, write research proposals, technical papers and research reports.
+    Use Go to implement photonic integrated circuit functions.
 
 2011-2016
 :   <i>Software Engineer</i> - Calient Technologies
@@ -46,26 +47,30 @@ Education
 Projects
 ------------
 Go
-:   - (AWS) Distributed software for [URL shortening](github.com/helkey/url-shorten) using Terraform for resource provisioning, Packer for containers.
+:   - (AWS) Distributed sysytems for [URL shortening](https://github.com/helkey/url-shorten) using Terraform for resource provisioning, Packer for containers.
 
-    - Backend software for designing integrated photonics (routing layers, undo/redo buffer, read/write GDS files)
+    - Backend software for designing integrated photonics (waveguide layers, undo/redo buffer, read/write GDS files...)
 
-    - [Algorithm implementations](github.com/helkey/algorithm-go) (e.g. [Backtracking](https://github.com/helkey/sudoku-go/), dynamic programming,...)
+    - [Algorithm implementations](https://github.com/helkey/algorithm-go) (e.g. [Backtracking](https://github.com/helkey/sudoku-go/), dynamic programming,...)
  
 Python
 :    - Developed software/hardware to reduce cost of rate-limiting manufacturing step by 100x 
-            (test time down 10x, test equipment cost reduced <10x).
+            (test time down 10x, test equipment cost reduced 10x).
 	 Led 2-person team, wrote all of the backend software, performed the testing, 
-	 system integration, and on-going support.
+	 system integration, and operations support.
 
      - Developed algorithm to reduce process time of switch collimator alignment time by 10x.
 
-     - Performance/yield tracking: Analyze production yield and flag problems using statistical process control. Designed database tables and implemented database schemas.
+     - Performance/yield tracking: Analyze production yield and flag problems using statistical process control.
+       Designed database tables and implemented database schemas.
 
      - (Javascript/HTML/CSS) Translate Balsamiq wireframes to HTML web pages; Color picker for optimizing CSS themes.
 
 C
-:   - Embedded software for low-power sensor system using energy harvesting, MSP430 microprocessor. 
+:   - Interrupt-driven embedded software for low-power sensor system using energy harvesting
+
+FPGA
+:   - Developed digital signal processing (DSP) algorithms for WiMAX baseband processing, image processing. 
 
 
 

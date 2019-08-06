@@ -1,0 +1,6 @@
+Google domains
+  domains.google.com/m/registrar/helkey.org/dns?hl=en
+  Github IP: 185.199.110.153
+  served from helkey.github.io
+  
+$ dig helkey.oprg +nostats +nocomments +nocmd # show where custom domain points
