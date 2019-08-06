@@ -1,0 +1,41 @@
+//User pages: redirects to https://helkey.github.io
+
+//Using GitHub Pages To Host Your Website
+  http://blog.teamtreehouse.com/using-github-pages-to-host-your-website
+
+https://help.github.com/articles/using-a-custom-domain-with-github-pages/
+// To set up an apex domain, such as example.com, you must configure an ALIAS, ANAME, or A record with your DNS provider.
+// To set up a www subdomain, such as www.example.com you must configure a CNAME record with your DNS provider.
+
+https://help.github.com/articles/custom-domain-redirects-for-github-pages-sites/
+
+https://support.google.com/domains/answer/6069257?hl=en
+
+
+//Project pages: redirects to https://helkey.github.io/helkey/
+//Create a repo
+  https://help.github.com/articles/create-a-repo/
+// Retrieve a copy of your GitHub repo.  
+$ git clone https://github.com/helkey/helkey.git
+$ mv *.html helkey/
+$ cd helkey
+$ git checkout --orphan gh-pages
+$ git rm -rf . # remove any files from master repo
+$ emacs CNAME # insert helkey.org
+// http://ndpsoftware.com/git-cheatsheet.html
+$ git add * # add files to repo
+$ git commit -a -m "Adding pages"
+$ git push origin gh-pages
+// see http://helkey.github.io/helkey/
+
+
+// update the DNS records for your domain name
+https://domains.google.com/registrar
+// click on DNS icon
+// setup a new A record that points to the IP address:
+//    192.30.252.153 or 192.30.252.154
+@   A   1h   185.199.110.153  # root domain (helkey.org)
+www A   1h   185.199.110.153  # www domain (www.helkey.org)
+sites.google.com/view/helkey
+
+dig helkey.org +nostats +nocomments +nocmd
