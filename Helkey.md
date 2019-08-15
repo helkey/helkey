@@ -13,7 +13,12 @@ Roger Helkey
 Work History
 ----------
 
-2016-Present
+2019
+:   <i>Golang Software Engineer</i>
+
+    Develop software for distributed systems using Terraform and microservice modules (github.com/helkey/url-shorten, …,).
+
+2016-2019
 :   <i>Program Manager</i> - UC Santa Barbara
 
     Supervise research, give presentations, write research proposals, technical papers and research reports.
