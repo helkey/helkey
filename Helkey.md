@@ -13,7 +13,7 @@ Roger Helkey
 Work History
 ----------
 
-2019
+May 2019
 :   <i>Golang Software Engineer</i>
 
     OSS software development, distributed systems using Go, microservice modules, Terraform, Packer, AWS, Docker, and Kubernetes (Google GKE) (github.com/helkey/url-shorten).
