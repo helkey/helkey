@@ -16,7 +16,7 @@ Work History
 2019
 :   <i>Golang Software Engineer</i>
 
-    Develop software for distributed systems using Terraform and microservice modules (github.com/helkey/url-shorten, …,).
+    OSS software development, distributed systems using Go, microservice modules, Terraform, Packer, AWS, Docker, and Kubernetes (Google GKE) (github.com/helkey/url-shorten).
 
 2016-2019
 :   <i>Program Manager</i> - UC Santa Barbara
@@ -32,7 +32,7 @@ Work History
 2008-2011
 :    <i>Senior Scientist</i> - Toyon
 
-    Embedded software, digital signal processing.
+    Embedded software in C, digital signal processing.
 
     . . .
 
