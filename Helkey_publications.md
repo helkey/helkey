@@ -1,10 +1,5 @@
-lsRoger Helkey
-=========================
-
-----
-
-Publications
-------------
+# Roger Helkey Publications
+-----------------------------------------
 
 * "On-chip wavelength locking for photonic switches", 
        Khope, Hirokawa, Netherton, Saeidi, Xia, Schow, Helkey, Theogarajan, Saleh, Bowers, Alferness, Optics Letters (2017).
