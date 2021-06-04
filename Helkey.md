@@ -20,7 +20,7 @@ Work History
 2019
 :   <i>Software Open Source Projects</i>
 
-    OSS software development, distributed systems using Go, microservice modules, Terraform, Packer, AWS, Docker, and Kubernetes (Google GKE) (github.com/helkey/url-shorten).
+    OSS software development, distributed systems using Go, microservice modules, Terraform, Packer, AWS, Docker, and Kubernetes (Google GKE) ([url shortener](github.com/helkey/url-shorten)).
 
 2016-2019
 :   <i>Research Manager</i> - UC Santa Barbara
