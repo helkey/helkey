@@ -58,9 +58,6 @@ Go
  
 
 
-References
-------------
-Available on request
 
 ----
 > Palo Alto
