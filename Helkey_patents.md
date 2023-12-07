@@ -87,5 +87,4 @@
 * US #4,928,106:  "Global Positioning Receiver with Improved Radio Frequency and Digital Processing," Ashjaee, Helkey, Lorenz, Sutherland, 1990.
 
 ----
-> <roger@helkey.org>\
-> Santa Barbara, CA
+> <roger@helkey.org>
