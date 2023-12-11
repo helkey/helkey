@@ -107,5 +107,4 @@ Karin, Helkey, Derickson, Nagarajan, Allin, Bowers and Thornton, Applied Physics
   Morton, Helkey, Bowers, IEEE Journal of Quantum Electronics, p. 2621-2633 (1989).
 
 ----
-> <roger@helkey.org>\
-> Santa Barbara, CA
+> <roger@helkey.org>
